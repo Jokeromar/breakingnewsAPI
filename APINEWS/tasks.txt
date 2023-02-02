@@ -1,0 +1,12 @@
+>>>1
+find free API's (weather , économique, news , articles , sports)
+>>>2
+integration with react & Jquey & html & css & boostrap 
+>>> 3 
+every subject had his own component 
+>>> 4 
+find free API how gives random videos youtube about news subjects 
+>>>> 5
+footer with social mediq tags and signature of the group 
+*************************************************************************************************************************
+weather
